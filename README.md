@@ -9,6 +9,8 @@ The website is created only to acquire and practice skills in web programming us
 A new instance of the website has been created according to the mailing list. The basis is a page created on tables, because this layout method is the most adaptive of all methods.
 # Example of the postal version of the site:
 ![image](https://github.com/user-attachments/assets/06db984d-f47c-42b3-b014-6535aa84f020)
+
+
 ![image](https://github.com/user-attachments/assets/86186bcb-e74f-4652-8fbc-8865cff9e1a4)
 
 # Mobile version
